@@ -2,7 +2,7 @@ package util
 
 import (
 	"encoding/json"
-	"github.com/freeddser/ride-sharing/logging"
+	"github.com/freeddser/rs-common/logging"
 	"io/ioutil"
 	"strings"
 )
