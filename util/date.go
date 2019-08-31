@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"bitbucket.org/tixid/tix_id_cms_api/config"
+	"github.com/freeddser/rs-common/config"
 )
 
 var (
